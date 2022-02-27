@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital@0;1&family=Roboto:wght@900&display=swap" rel="stylesheet");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+/*Colors*/
+#813405
+#F5C396
+#657153
+#0B3954
+#C9C9EE
+
+
+
+body {
+	font-family: 'PT Serif', serif;
+	font-size: 24px;
+	background: #C9C9EE;
+}
+
+h1,h2,h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+#main-title {
+	font-family: 'PT Serif', serif;
+	font-weight: bolder;
+	font-size: 32px;
+}
+
